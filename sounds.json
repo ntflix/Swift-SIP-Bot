@@ -1,0 +1,67 @@
+[
+  {
+    "title": "First Audio Recording of Sounds on Mars",
+    "description": "This recording was made by the SuperCam instrument on NASA’s Perseverance Mars rover on Feb. 19, 2021, just about 18 hours after landing on the mission’s first sol or Martian day. The rover’s mast, holding the microphone, was still stowed on Perseverance’s deck, and so the sound is muffled, a little like the sound one hears listening to a seashell or having a hand cupped over the ear. Just a little wind can be heard. Credit: NASA/JPL-Caltech/LANL/CNES/CNRS/ISAE-Supaero",
+    "url": "https://www.nasa.gov/wp-content/uploads/2024/05/scam-mic-sol001-run001.wav"
+  },
+  {
+    "title": "Perseverance Rover’s SuperCam Records Wind on Mars",
+    "description": "This recording was made on Feb. 22, 2021, on the fourth sol (Martian day) by the SuperCam instrument on NASA’s Perseverance rover after deployment of the rover’s mast. It provides a different overall sound than the SuperCam audio recording from the mission’s first sol. Some wind can be heard, especially around 20 seconds into the recording. Rover background sounds have been removed. Credit: NASA/JPL-Caltech/LANL/CNES/CNRS/ISAE-Supaero",
+    "url": "https://www.nasa.gov/wp-content/uploads/2024/05/scam-mic-sol004-run001.wav"
+  },
+  {
+    "title": "First Acoustic Recording of Laser Shots on Mars",
+    "description": "This is the first acoustic recording of laser impacts on a rock target on Mars from March 2, 2021, the 12th sol (Martian day) from Perseverance’s SuperCam instrument. The sounds of 30 impacts are heard, some slightly louder than others. Variations in the intensity of the zapping sounds will provide information on the physical structure of the targets, such as its relative hardness or the presence of weathering coatings. The target, Máaz (“Mars” in Navajo), was about 10 feet (3.1 m) away. Credit: NASA/JPL-Caltech/LANL/CNES/CNRS/ISAE-Supaero",
+    "url": "https://www.nasa.gov/wp-content/uploads/2024/05/scam-mic-sol012-run001.wav"
+  },
+  {
+    "title": "NASA’s Ingenuity Mars Helicopter in Flight",
+    "description": "For the first time, a spacecraft on another planet has recorded the sounds of a separate spacecraft. NASA’s Perseverance Mars rover used its SuperCam microphone to listen to the Ingenuity helicopter on April 30, 2021 as it flew on Mars for the fourth time. With Perseverance parked 262 feet (80 meters) from the helicopter’s takeoff and landing spot, the mission wasn’t sure if the microphone would pick up any sound of the flight. Even during flight when the helicopter’s blades are spinning at 2,537 rpm, the sound is greatly muffled by the thin Martian atmosphere. It is further obscured by Martian wind gusts during the initial moments of the flight. Listen closely, though, and the helicopter’s hum can be heard faintly above the sound of those winds. Scientists made the audio, which is recorded in mono, easier to hear by isolating the 84 hertz helicopter blade sound, reducing the frequencies below 80 hertz and above 90 hertz, and increasing the volume of the remaining signal. Some frequencies were clipped to bring out the helicopter’s hum Credit: NASA/JPL-Caltech/LANL/CNES/CNRS/ISAE-Supaéro",
+    "url": "https://www.nasa.gov/wp-content/uploads/2024/05/jpl-20210506-listen-to-nasas-ingenuity-helicopter-as-it-flies-on-mars.wav"
+  },
+  {
+    "title": "NASA’s Perseverance Records a Martian Dust Devil",
+    "description": "This audio shows the results of NASA’s Perseverance Mars rover using its SuperCam microphone to record the sounds of a Martian dust devil – the first time any such recording has been made. The dust devil passed directly over Perseverance on Sept. 27, 2021, the 215th Martian day, or sol, of the mission. Credit: NASA/JPL-Caltech/LANL/CNES/CNRS/INTA-CSIC/Space Science Institute/ISAE-Supaero",
+    "url": "https://www.nasa.gov/wp-content/uploads/2024/05/pia25657.wav"
+  },
+  {
+    "title": "Sounds of Perseverance Mars Rover Driving – Sol 16 (90-second highlights)",
+    "description": "NASA engineers combined three segments from the raw audio file recorded while the Perseverance Mars rover rolled across a section of Jezero Crater on sol 16 of the mission. Sections 0:20-0:45, 6:40-7:10, and 14:30-15:00 were combined into this 90-second highlight clip. There has been processing and editing to filter out some of the noise. Credit: NASA/JPL-Caltech",
+    "url": "https://www.nasa.gov/wp-content/uploads/2024/05/filtered-highlights-sol16roverdrivehighlights.wav"
+  },
+  {
+    "title": "Sounds of Mars from InSight Lander - Includes rover self-noise",
+    "description": "NASA's InSight lander took this final selfie on April 24, 2022. The lander is covered with far more dust than it was in its first selfie, taken in December 2018, or in its second selfie, taken in March and April of 2019. NASA’s InSight Mars lander took this final selfie on April 24, 2022, the 1,211th Martian day, or sol, of the mission.",
+    "url": "https://www.nasa.gov/wp-content/uploads/2024/05/sounds-from-mars-includes-rover-self-noise.wav"
+  },
+  {
+    "title": "“Dinks and donks” from InSight’s seismometer",
+    "description": "A recording of “dinks and donks,” strange sounds created by friction inside of InSight’s seismometer, called SEIS. Scientists aren’t entirely sure what causes each of these sounds, by they are created by parts inside the seismometer contracting as they cool down, especially during sunset. These were recorded on just after sundown on July 16, 2019 (Sol 226).",
+    "url": "https://www.nasa.gov/wp-content/uploads/2015/01/Cropped-Dinks-and-Donks-sample.wav"
+  },
+  {
+    "title": "Magnitude 3.7 marsquake from May 22, 2019",
+    "description": "A recording of a magnitude 3.7 marsquake from InSight’s seismometer, called SEIS. This quake was recorded on May 22, 2019 (the 173rd Martian day, or sol, of the mission). Far below the human range of hearing, this sonification from SEIS had to be sped up and slightly processed to be audible through headphones.",
+    "url": "https://www.nasa.gov/wp-content/uploads/2015/01/Quake-Sol-173.wav"
+  },
+  {
+    "title": "Sounds of InSight’s robotic arm",
+    "description": "A recording of sounds created by InSight’s robotic arm as its camera scanned the surface of Mars on March 6, 2019, the 98th Martian day, or sol, of the mission. Also captured are wind gusts and “dinks” produced by friction inside of InSight’s seismometer, called SEIS.",
+    "url": "https://www.nasa.gov/wp-content/uploads/2015/01/20190819-Sol-98-SEIS-Spatialized-reflective.wav"
+  },
+  {
+    "title": "Raw Sounds from InSight’s Seismometer on Mars (full length)",
+    "description": "A subwoofer or earphones are needed to hear this clip. Listen to raw, unprocessed data from the seismometer on NASA’s InSight spacecraft of vibrations caused by wind moving over the solar panels on Mars. The sounds were recorded by two of the three short-period sensors on the seismometer (SEIS).",
+    "url": "https://www.nasa.gov/wp-content/uploads/2015/01/06-MASTERRESAMPLED-48Kraw_velocity_0.6_normalisedx1.wav"
+  },
+  {
+    "title": "More Audible Sounds from InSight’s Seismometer on Mars",
+    "description": "Listen to data from the seismometer on NASA’s InSight spacecraft of vibrations caused by Martian wind moving over the lander’s solar panels. In this version, the data have been processed to raise the frequencies by two octaves to make them more audible.",
+    "url": "https://www.nasa.gov/wp-content/uploads/2015/01/08-Brian-Cook_raw_velocity_0.6_normalisedx1_2octavesUp_03.wav"
+  },
+  {
+    "title": "Audio of Juno’s Ganymede Flyby",
+    "description": "NASA’s Juno spacecraft captured this view of Jupiter during the mission’s 40th close pass by the giant planet on Feb. 25, 2022. The large, dark shadow on the left side of the image was cast by Jupiter’s moon Ganymede. NASA’s Juno spacecraft captured this view of Jupiter during the mission’s 40th close pass by the giant planet on Feb. 25, 2022. The large, dark shadow on the left side of the image was cast by Jupiter’s moon Ganymede. Audio of Juno’s Ganymede Flyby Hear radio emissions collected during Juno’s June 7, 2021, flyby of Jupiter’s moon Ganymede. Credit: NASA/JPL-Caltech/SwRI/Univ of Iowa",
+    "url": "https://www.nasa.gov/wp-content/uploads/2024/05/e2-wave-ganymede-flyby-compressed.wav"
+  }
+]

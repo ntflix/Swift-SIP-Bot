@@ -1,0 +1,4 @@
+module CBaresip {
+    header "shim.h"
+    export *
+}

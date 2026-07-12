@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug MyBaresipApp",
+            "type": "lldb-dap",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/MyBaresipApp",
+            "args": [
+                "--creds",
+                "creds.json"
+            ],
+            "emv": {
+                "CALL_ANSWER_DELAY_SECONDS": "2"
+            },
+            "cwd": "${workspaceFolder}/build",
+            "preLaunchTask": "cmake: build",
+            "stopOnEntry": false
+        }
+    ]
+}
